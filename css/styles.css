@@ -94,6 +94,16 @@ body {
   }
 }
 
+:not(a) > abbr[title]:hover {
+  color: hsl(from var(--c-light) h s l);
+  cursor: help;
+  text-decoration-color: hsl(from var(--c-dark) h s l);
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 2px;
+}
+
 a {
   color: hsl(from var(--c-lighter) h s l);
   text-decoration-color: hsl(from var(--c-darker) h s l);
