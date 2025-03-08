@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Rafael Masoni</title>
+		<link>https://rmasoni.com/</link>
+		<description>Designer, developer, illustrator, aspiring singer, D&amp;D aficionado.</description>
+		<language>en-us</language>
+		<atom:link href="https://rmasoni.com/feed.xml" rel="self" type="application/rss+xml" />
+
+		<item>
+			<title>Agriculture is Magic</title>
+			<pubDate>Wed, 6 Feb 2025 03:00:00 -0300</pubDate>
+			<guid>0194e2aa-b80a-7995-baf8-a1e75f0d4f2c</guid>
+			<link>https://rmasoni.com/blog/agriculture-is-magic.html</link>
+			<description>For some reason, I had the idea of planting lettuce in a pot to always have it available. […]</description>
+		</item>
+
+		<item>
+			<title>Change</title>
+			<pubDate>Wed, 1 Feb 2023 03:00:00 -0300</pubDate>
+			<guid>0194824b-23cc-7ccc-9194-db915765e046</guid>
+			<link>https://rmasoni.com/blog/change.html</link>
+			<description>I used to hate change. I felt hurt by it. I thought it ruined everything. […]</description>
+		</item>
+
+		<item>
+			<title>Following Bad Practices</title>
+			<pubDate>Wed, 7 Dec 2021 03:00:00 -0300</pubDate>
+			<guid>01949038-baff-7aa8-b33e-307e5cdcfa41</guid>
+			<link>https://rmasoni.com/blog/following-bad-practices.html</link>
+			<description>Remember when Instagram was a nice little app that let you take pictures and apply retro-style filters to share with friends? […]</description>
+		</item>
+
+		<item>
+			<title>Observações de um Turista no Japão</title>
+			<pubDate>Wed, 26 Apr 2016 03:00:00 -0300</pubDate>
+			<guid>0194903a-34e7-777b-8976-c2077b2a54fa</guid>
+			<link>https://rmasoni.com/blog/observacoes-de-um-turista-no-japao.html</link>
+			<description>Em Abril de 2015, realizei um sonho de infância: viajar para o Japão. […]</description>
+		</item>
+
+		<item>
+			<title>You're the Boss, Be Responsible</title>
+			<pubDate>Wed, 3 Aug 2015 03:00:00 -0300</pubDate>
+			<guid>0194903b-3625-7ee5-9130-afe52c8a4f87</guid>
+			<link>https://rmasoni.com/blog/youre-the-boss-be-responsible.html</link>
+			<description>This rant isn’t directed at anyone in particular, as its very existence is only due to the fact that I have faced this situation more than one would ever want. […]</description>
+		</item>
+
+	</channel>
+</rss>
